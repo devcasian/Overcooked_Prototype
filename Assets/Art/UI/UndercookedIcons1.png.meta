@@ -51,7 +51,7 @@ TextureImporter:
       213: 5966772757411358811
     second: Coin
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,6 +72,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -80,9 +81,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 1
     aniso: 2
-    mipBias: -100
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 0
@@ -110,6 +111,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -532,6 +534,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BurguerIcon: -6621405077816047098
+      BurnIcon: -7902952509415961512
+      Coin: 5966772757411358811
+      CookingPotIcon: -5102537412531183787
+      FryingPanIcon: -2548954754485975851
+      GreenCheckIcon: 51079296408180695
+      IconBun: 4711268850402893214
+      IconLettuce: -6996000231109423620
+      IconMeat: -5250330138473274576
+      IconOnion: -8221990878993879952
+      IconSoupOnion: 452195946211186457
+      IconSoupTomato: 7214117213202875568
+      IconTomato: -5990606000750849639
+      PlusIcon: -2630179437063051716
+      Stopwatch: -2868483261716031048
+      WarnIcon: -5811919892719497971
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
